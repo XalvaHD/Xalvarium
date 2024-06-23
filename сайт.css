@@ -1,0 +1,47 @@
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            height: 1200px;
+            background-image: url('https://st03.kakprosto.ru/images/article/2016/10/10/167181_57fbf1331d78857fbf1331d7c2.jpeg');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .header-title {
+            font-size: 60px;
+            margin-bottom: 20px;
+            color: rgb(175, 175, 175);
+        }
+        
+        .header-subtitle {
+            font-size: 40px;
+            color: rgb(253, 140, 140);
+        }
+        
+        .article {
+            padding: 50px;
+            text-align: center;
+        }
+        
+        .article-title {
+            font-size: 50px;
+        }
+        
+        .article-content {
+            font-size: 30px;
+        }
+        
+        .history {
+            padding: 30px;
+            color: rgb(116, 116, 116);
+            font-size: 27px;
+        }
